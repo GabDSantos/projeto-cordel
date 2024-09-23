@@ -69,6 +69,7 @@ section > p {
 }
 
 .normal > p {
+    
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.466);
 }
 
@@ -79,7 +80,7 @@ section > p {
 }
 
 .imagem > p {
-    background-color: rgba(0, 0, 0, 0.308);
+    background-color: rgba(0, 0, 0, 0.466);
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.534);
@@ -93,7 +94,6 @@ section > p {
 
 #img02{
     background: url('imagens/background002.jpg') center right no-repeat fixed;
-
 }
 
 footer{
